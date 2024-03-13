@@ -1,4 +1,5 @@
 #ATIVIDADE AVALIATIVA 
+
 Na atividade proposta em sala tivemos que realizar as seguintes proposta:
 Adaptar o  código mencionado, para que o usuário informe o número que deve ser testado e identificado se Par ou Impar. 
 Criar um código para verificar se o número é redondo ou não.
