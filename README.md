@@ -1,5 +1,6 @@
 # atvd3
-# atvd3 na atividade proposta em sala tivemos que realizar as seguintes proposta:
+# atvd3 
+Na atividade proposta em sala tivemos que realizar as seguintes proposta:
 Adaptar o  código mencionado, para que o usuário informe o número que deve ser testado e identificado se Par ou Impar. 
 Criar um código para verificar se o número é redondo ou não.
 Criar um código para verificar se o número é positivo, negativo é neutro (zero). 
